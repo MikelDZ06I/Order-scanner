@@ -34,7 +34,7 @@ Once the order is scanned, all relevant information is displayed: the product na
   <img src="img/details.jpg" width="300"/>
 </p>
 
-Before applying the change, a confirmation screen appears where the operator can enable or disable the sending of a notification email to the client, choose the language of the email (Spanish, English or Basque), select the recipient's email address and preview the message that will be sent, including the product name, the previous date and the new date.
+Before applying the change, a confirmation screen appears where the operator can enable or disable the sending of a notification email to the client, choose the language of the email (Spanish, German, French English and Basque), select the recipient's email address and preview the message that will be sent, including the product name, the previous date and the new date.
 
 <p align="center">
   <img src="img/confirmation.jpg" width="300"/>
